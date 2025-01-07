@@ -20,7 +20,7 @@
  *
  * ¿Fácil? No te preocupes, recuerda que esta es una ruta de estudio y
  * debemos comenzar por el principio.
- */
+*/
 #include <iostream>
 
 #define MY_CONSTANT_DEFINE 10 // una forma de crear una constante de forma rapida, ojo que tiene que ser despues de los #include y antes de las funciones que nosotros creamos, pero ojo que podemos usar esto como constante no llega a ser como tal una constante, ya que hay operaciones como << que no ser nos permitira usar, asi que no es la mejor forma de crear constantes.
